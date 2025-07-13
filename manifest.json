@@ -1,0 +1,22 @@
+{
+  "name": "My Life FM - Live Stream",
+  "short_name": "LifeFM",
+  "start_url": "index.html",
+  "scope": "./"
+ 
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+ ],
+  "theme_color": "#ffd31d",
+  "background_color": "#00b388",
+  "display": "standalone"
+}
